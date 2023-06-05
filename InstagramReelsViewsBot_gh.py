@@ -5,6 +5,7 @@ Created on Sun Mar 21 01:06:53 2021
 @author: VICKY JUNGHARE
 """
 #importing required python packages
+from selenium import *
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
